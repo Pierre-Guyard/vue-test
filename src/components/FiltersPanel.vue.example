@@ -1,0 +1,30 @@
+<!-- 
+  FICHIER D'EXEMPLE - À SUPPRIMER LORS DE L'IMPLÉMENTATION
+  
+  Ce fichier montre la structure de base attendue.
+  Vous devez créer le vrai composant FiltersPanel.vue dans le même dossier.
+-->
+
+<script setup lang="ts">
+import { defineModel } from 'vue'
+import type { PatientsFilters } from '@/types/patients'
+
+// TODO: Implémenter le composant avec v-model:filters
+// TODO: Gérer les champs: status, ageMin, ageMax, lastVisitFrom, lastVisitTo
+// TODO: Bouton "Appliquer" qui émet l'événement 'apply'
+// TODO: Bouton "Réinitialiser" qui remet filters à {}
+</script>
+
+<template>
+  <div class="filters-panel">
+    <!-- TODO: Implémenter le panneau de filtres -->
+  </div>
+</template>
+
+<style lang="less" scoped>
+.filters-panel {
+  // TODO: Utiliser les variables CSS de :root
+  // TODO: Styliser sans lib UI externe
+}
+</style>
+

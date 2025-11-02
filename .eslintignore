@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+storybook-static
+coverage
+*.config.js
+*.config.ts
+*.config.cjs
+*.config.mjs
+vite.config.ts
+vitest.config.ts
+
