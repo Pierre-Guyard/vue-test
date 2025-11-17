@@ -2,7 +2,7 @@
 
 ## Contexte
 
-Vous êtes candidat(e) à un poste de **Lead Développeur Vue.js** dans une équipe qui travaille sur une application de gestion médicale.
+Vous êtes candidat(e) à un poste de **Développeur Vue.js** dans une équipe qui travaille sur une application de gestion médicale.
 
 L'objectif de ce test n'est **pas la perfection visuelle**, mais votre capacité à :
 - **Concevoir** un composant réutilisable et maintenable
