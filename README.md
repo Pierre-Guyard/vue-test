@@ -120,14 +120,6 @@ Implémentez un composant `FiltersPanel.vue` (Composition API, Vue 3.4) qui gèr
    - En français
    - Avec des controls sur `filters`
    - Documentée pour l'équipe
-
-### Ce qui est évalué
-
-- Qualité du code (noms clairs, pas de bidouille au `nextTick()` pour que ça marche)
-- Maîtrise de la réactivité (vrai sujet lead Vue)
-- Capacité à penser "utilisable par l'équipe" (Storybook avec description claire)
-- Qualité pédagogique implicite : la story est-elle compréhensible ?
-
 ---
 
 ## Structure du projet
