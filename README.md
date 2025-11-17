@@ -62,7 +62,7 @@ Décrivez l'architecture que vous proposeriez pour répondre au besoin. Vous dev
 
 ### Format attendu
 
-- **1 schéma ou pseudo-schéma texte** (pas besoin de Figma) *** OU *** **un UML (drawIO, ou autre), diagramme de communication, diagramme de composants** 
+- **1 schéma ou pseudo-schéma texte** (pas besoin de Figma) OU **un UML (drawIO, ou autre), diagramme de communication, diagramme de composants** 
 - **10-15 lignes d'explication structurée**
 - **Liste courte des tests unitaires prioritaires** (juste les noms)
 - **Plan Storybook** (quelles stories, pourquoi)
