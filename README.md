@@ -192,4 +192,4 @@ npm run dev
 
 Si vous avez des questions pendant le test, n'hésitez pas à les poser. Nous valorisons la communication et la clarification des besoins.
 
-**Bonne chance ! 🚀**
+**À vos claviers ! ⌨️**
