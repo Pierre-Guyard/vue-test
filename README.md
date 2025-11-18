@@ -188,6 +188,8 @@ npm run dev
 
 ---
 
+## Ne pushez le code sur GitHub mais envoyez-le compressé à annabelle.bouin@teranga-software.com ##
+
 ## Questions ?
 
 Si vous avez des questions pendant le test, n'hésitez pas à les poser. Nous valorisons la communication et la clarification des besoins.
