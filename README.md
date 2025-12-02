@@ -1,5 +1,7 @@
 # Test Technique - Tableau Patients v0
 
+> 🧠 **NB :** L’IA est une alliée précieuse dans notre quotidien, mais il est essentiel de l’utiliser à bon escient. Merci de ne pas en abuser pour la réalisation de ce test.
+
 ## Contexte
 
 Vous êtes candidat(e) à un poste de **Développeur Vue.js** dans une équipe qui travaille sur une application de gestion médicale.
